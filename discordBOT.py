@@ -8,7 +8,6 @@ for url in WEBHOOK_URL:
     hook = Webhook(url)
 
     embed = Embed(
-        description="**[Kaiju no.8 link - click here -](https://kaijunomanga.online/)**",
         color=0xF0B232
     )
     
