@@ -26,9 +26,9 @@ try:
     width = responseT.size['width']
 
     
-    desired_width = max(width, 1200)  
+    desired_width = max(width, 600)  
 
-    desired_height = min(height, 1000)
+    desired_height = min(height, 500)
 
     page_to_scrape.set_window_size(desired_width, desired_height)  
 
