@@ -2,7 +2,7 @@ name: kaiju bot
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Run every minute
+    - cron: '*/600 * * * *'  
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
