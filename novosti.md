@@ -1,3 +1,4 @@
+Kaiju No 8 Chapter 127
 Kaiju No 8 Chapter 126
 Kaiju No 8 Chapter 125
 Kaiju No 8 Chapter 124
